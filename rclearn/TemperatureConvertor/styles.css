@@ -1,0 +1,59 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1rem;
+    background-color: aliceblue;
+}
+
+h1{
+    color: blueviolet;
+    text-align: center;
+    margin: 50px 0px;
+}
+h2{
+    color: rgb(93, 20, 20);
+}
+
+form{
+    background-color: lavenderblush;
+    max-width: 350px;
+    margin: auto;
+    padding: 35px;
+    box-shadow: 15px 15px 25px rgb(217, 168, 197);
+    border-radius: 10%;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+
+#inputValue{
+    background-color: rgb(249, 241, 205);
+    height: 25px;
+    border-color: aliceblue;
+    border-radius: 20px;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+input{
+    margin-bottom: 15px;
+}
+
+#SubmitButton{
+    margin: 15px;
+    background-color: rgb(18, 148, 18);
+    color: aliceblue;
+    height: 35px;
+    width: 129px;
+}
+
+#SubmitButton:hover{
+    background-color: rgb(41, 188, 41);
+}
+
+#resultShow{
+    text-align: center;
+    color: rgb(106, 52, 91);
+    font-family: monospace;
+    font-weight: bold;
+    font-style: oblique;
+}

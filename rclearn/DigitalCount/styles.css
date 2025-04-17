@@ -1,0 +1,38 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: lavenderblush;
+    text-align: center;
+}
+
+h1{
+    color: rgb(107, 54, 156);
+}
+
+p{
+    color: rgb(44, 141, 144);
+    margin: 95px;
+}
+
+h3{
+    color: rgb(52, 116, 95);
+    font-family: monospace;
+    font-size: large;
+    font-weight: bold;
+    font-style: italic;
+    font-stretch: expanded;
+    font-size: 5rem;
+}
+
+button{
+    height: 35px;
+    width: 55px;
+    border-radius: 30px;
+    cursor: pointer;
+}
+
+#plus, #minus{
+    color: rgb(11, 127, 11);
+}
+#plus:hover, #minus:hover{
+    color: rgb(37, 73, 37);
+}
